@@ -12,3 +12,9 @@ models:
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+## Launch Notebook
+
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/seamless-m4t-v2-large-hf?machine=Free-GPU)
+
+---
